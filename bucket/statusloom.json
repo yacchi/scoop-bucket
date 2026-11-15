@@ -1,0 +1,22 @@
+{
+    "version": "0.0.13",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/yacchi/statusloom/releases/download/v0.0.13/statusloom_0.0.13_windows_amd64.zip",
+            "bin": [
+                "statusloom.exe"
+            ],
+            "hash": "65865f31293c25f55e0688fcfcadde0a05baf00909e01024c64dfab2310bbfa9"
+        },
+        "arm64": {
+            "url": "https://github.com/yacchi/statusloom/releases/download/v0.0.13/statusloom_0.0.13_windows_arm64.zip",
+            "bin": [
+                "statusloom.exe"
+            ],
+            "hash": "de90054fbcc488d6b5673120dde937f2e6fc3856d3cce5ebfb2b89574232166d"
+        }
+    },
+    "homepage": "https://github.com/yacchi/statusloom",
+    "license": "Apache-2.0",
+    "description": "Statusline tool for Claude Code and other coding agents"
+}
