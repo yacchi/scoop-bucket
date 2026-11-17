@@ -1,19 +1,19 @@
 {
-    "version": "0.0.14",
+    "version": "0.0.15",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/yacchi/statusloom/releases/download/v0.0.14/statusloom_0.0.14_windows_amd64.zip",
+            "url": "https://github.com/yacchi/statusloom/releases/download/v0.0.15/statusloom_0.0.15_windows_amd64.zip",
             "bin": [
                 "statusloom.exe"
             ],
-            "hash": "903304c8d4081d181cb3ec63ace1da1c9f31eda5e7573ad2a971d06c2a880856"
+            "hash": "7beb8542add5c285415820dc25f320d448b1ad614c8062dbfa81c6e3768d1ebb"
         },
         "arm64": {
-            "url": "https://github.com/yacchi/statusloom/releases/download/v0.0.14/statusloom_0.0.14_windows_arm64.zip",
+            "url": "https://github.com/yacchi/statusloom/releases/download/v0.0.15/statusloom_0.0.15_windows_arm64.zip",
             "bin": [
                 "statusloom.exe"
             ],
-            "hash": "0b70fc78e5a7495e099eb2abe22e6dabc791accf4cd5dcddf1435307daffb28b"
+            "hash": "dcf05a7039f9e64a74202a9cfd46469cb21885f514ed524dd8817222cca59981"
         }
     },
     "homepage": "https://github.com/yacchi/statusloom",
